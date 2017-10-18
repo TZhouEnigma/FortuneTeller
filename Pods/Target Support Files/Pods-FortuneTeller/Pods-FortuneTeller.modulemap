@@ -1,0 +1,6 @@
+framework module Pods_FortuneTeller {
+  umbrella header "Pods-FortuneTeller-umbrella.h"
+
+  export *
+  module * { export * }
+}
