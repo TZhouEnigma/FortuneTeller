@@ -15,7 +15,10 @@ Login Screen(visitor mode or Facebook login);
 
 
 
-<img src="/251508135080_.pic.jpg" height="500px" width="250px" > Scrap user data from Facebook API or enter manually</br>
+<img src="/251508135080_.pic.jpg" height="500px" width="250px" > 
+
+
+Scrap user data from Facebook API or enter manually;
 
 
 
