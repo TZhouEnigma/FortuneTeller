@@ -1,3 +1,7 @@
+
+Made in collaboration with [Liry](https://www.google.com "Google's Homepage")
+ and Eric.
+
 <b>Behind this income prediction machine, there is a powerful multi-layer neural network.</b> 
 
 
